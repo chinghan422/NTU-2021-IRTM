@@ -1,6 +1,6 @@
 # IRTM
 
-NTU 110-1 Information Retrieval and Text Mining
+NTU 110-1 Information Retrieval and Text Mining (#IM5030)
 
 ## Assignment overview
 |  Assignment  |  Description  |
